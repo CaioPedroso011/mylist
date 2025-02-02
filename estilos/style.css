@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-    color: #7289da; 
+    color: white; 
     margin-bottom: 20px;
 }
 
@@ -33,7 +33,7 @@ label {
 }
 
 input {
-    width: 100%;
+    width: 95%;
     padding: 10px;
     border: 1px solid #7289da; 
     border-radius: 4px;
